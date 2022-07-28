@@ -1,0 +1,20 @@
+.ans3{
+    text-align: center;
+    font-size: 3em;
+    padding: 5px;
+}
+
+p{
+    text-decoration: underline;
+    font-size: 1.2em;
+}
+
+.answer{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    font-size: 1.5em;
+    border: 2px solid black;
+    background-color: bisque;
+    margin: 80px;
+}

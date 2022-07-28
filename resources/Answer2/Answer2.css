@@ -1,0 +1,42 @@
+*{
+    text-align: center;
+}
+
+h1{
+    text-align: center;
+    font-size: 4em;
+    padding: 5px;
+}
+
+.top{
+    font-size: 1.7em;
+}
+
+.answer{
+    border: 2px solid black;
+    margin: 100px;
+    padding: 40px;
+    background-color: rgb(10, 209, 183);
+}
+
+.urllink{
+    font-size: 1.2em;
+}
+
+.urlenter{
+    padding: 10px;
+}
+
+.urlenter{
+    font-size: 1em;
+}
+
+.click{
+    font-size: 1.2em;
+    padding:10px;
+    margin:10px;
+}
+
+.click:hover{
+    background-color: aquamarine;
+}

@@ -1,0 +1,40 @@
+
+.head{
+    text-align: center;
+    padding: 50px;
+    margin:5px;
+    color: rgb(0, 0, 0);
+    font-size: 3em;
+}
+
+.in{
+    text-align: center;
+    font-size: 1.5rem;
+}
+
+input{
+    font-size: 1rem;
+    padding:10px;
+}
+
+.input{
+    margin: 25px;
+}
+
+.click{
+    text-align: center;
+    font-size: 1.5rem;
+    padding: 10px;
+    background-color: red;
+    border-radius: 5px;
+}
+
+button:hover{
+    background-color: rgba(255, 102, 0, 0.993);
+}
+
+.answer{
+    text-align: center;
+    font-size: 1.5rem;
+    color: blue;
+}
